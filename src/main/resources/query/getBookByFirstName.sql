@@ -1,0 +1,1 @@
+select * from books where author_first_name =:book_first_name
